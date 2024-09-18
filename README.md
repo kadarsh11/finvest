@@ -32,7 +32,6 @@ Note: Make sure you have a device connected or an emulator running before execut
 | <img src="./screenshot/img5.png" alt="Image 5" width="200" > | <img src="./screenshot/img5.png" alt="Image 6" width="200"> |
 
 # Demo video
-<video controls width="200">
-  <source src="./screenshot/demo.mp4" width="200" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/93e19e42-241d-4860-8b0c-a99a816e5571
+
